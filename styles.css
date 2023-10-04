@@ -50,11 +50,31 @@ article {
   margin-top: 1.5cm;
 }
 
-.producten {
-  height: 5cm;
-  
+section {
+  height: 8cm;
+  width: 100%;
+  background-color: #7388ce;
+  overflow: hidden;
 }
 
-.producten img {
-  height: 100%;
+article ::after {
+  content: "";
+  clear: both;
+  display: table;
 }
+
+.producten {
+  height: 3cm;
+  width: 3cm;
+}
+
+.div2 {
+  height: 50cm;
+  width: 100%;
+  background-color: #5065A8;
+  overflow: hidden;
+}
+
+
+
+
