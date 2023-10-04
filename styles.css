@@ -9,7 +9,7 @@ nav {
 nav div {
   padding: 4px;
   float: left;
-  text-decoration: none
+  text-decoration: none;
 }
 
 body {
@@ -18,4 +18,11 @@ body {
 
 .div1 {
   padding: 1cm;
+  background-color: transparent;
+}
+
+.div1 a {
+  text-decoration: none;
+  color: #5065A8; 
+  font-family: "copperplate", fantasy;
 }
