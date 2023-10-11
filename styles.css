@@ -84,29 +84,29 @@ article ::after {
   width: 4.5cm;
   position: absolute;
 }
-body{
-  margin: 3em;
-  background-color: #F2EEE4;
-}
+
+
 .product-card {
   max-width: 12em;
   background-color: #fff;
   padding: 1em;
-  box-shadow: 0 5px 5px #e1e1e1;
-  font-family: font-family: 'Poppins', sans-serif;
-
+  font-family: 'Poppins', sans-serif;
+  float: left;
+  margin: 1cm;
 }
 .product-card img {
   max-width: 100%;
 }
 .product-card h4 {
-  font-size: 1.3cmmargin: 0.5em 0;
+  font-size: 1cm;
+  margin: 0.5em 0;
 }
 .product-card div {
   font-size: 1.2em;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  text-decoration: none;
 }
 .product-card button{
   background-color: #5065A8;
@@ -122,11 +122,12 @@ body{
   color: #fff;
 }
 .product-card:hover button{
-  color:#5065A8;
-  background-color: #fff;
+  color:#fff;
+  background-color: #5065A8;
 }
 @media screen and (max-width:576px) {
   .product-card{
     font-size: 0.9em;
   }
 }
+articl
