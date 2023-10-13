@@ -162,13 +162,13 @@ background-color: #F2EEE4;
 height: 56cm;  
 }
 
-.div3 {
+.homepagina {
   text-decoration: none;
   color: #5065A8;
   font-family: "copperplate", fantasy;
   font-size: 3em;
   margin: 0cm;
-  padding-top: 1.5cm;
+  padding-top: 5cm;
   padding-left: 7.5cm;
 }
 
@@ -176,8 +176,10 @@ height: 56cm;
   text-decoration: none;
   color: #5065A8;
   font-family: "copperplate", fantasy;
-  font-size: 1em;
+  font-size: 1.25em;
   margin: 0cm;
   padding-top: 1.5cm;
-  padding-left: 7.5cm; 
+  margin-right:15cm;
+  margin-left: 15cm;
+  align: centre
 }
