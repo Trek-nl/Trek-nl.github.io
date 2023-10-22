@@ -109,7 +109,7 @@ article ::after {
 
 .product-card img {
   max-width: 100%;
-  height:12em;
+  height: 12em;
   width: 12em;
 }
 
@@ -158,8 +158,8 @@ article ::after {
 }
 
 .section {
-background-color: #F2EEE4;
-height: 56cm;  
+  background-color: #F2EEE4;
+  height: 56cm;
 }
 
 .homepagina {
@@ -178,8 +178,29 @@ height: 56cm;
   font-family: "copperplate", fantasy;
   font-size: 1.25em;
   margin: 0cm;
-  padding-top: 1.5cm;
-  margin-right:15cm;
+  padding-top: 1cm;
+  margin-right: 15cm;
   margin-left: 15cm;
-  align: centre
+}
+
+.div5 {
+  text-decoration: none;
+  color: #5065A8;
+  font-family: "copperplate", fantasy;
+  font-size: 1.25em;
+  margin: 0cm;
+  padding-top: 1.05cm;
+  margin-right: 15cm;
+  margin-left: 15cm;
+}
+
+.div6 {
+  text-decoration: none;
+  color: #5065A8;
+  font-family: "copperplate", fantasy;
+  font-size: 1.5em;
+  margin: 0cm;
+  padding-top: 1.5cm;
+  margin-right: 15cm;
+  margin-left: 15cm;
 }
